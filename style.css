@@ -13,6 +13,7 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
+    font-family: 'Lato', sans-serif;
   }
 
 main {
@@ -22,6 +23,7 @@ main {
 
 .links {
 color: red;
+font-family: 'Roboto', sans-serif;
 }
 
 .test {
@@ -30,4 +32,12 @@ color: red;
 
 footer {
   text-align: center;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+form {
+  font-family: 'Lato', sans-serif;
 }
