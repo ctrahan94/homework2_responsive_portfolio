@@ -1,0 +1,25 @@
+/* img {
+    padding-top:5%;
+} */
+
+  .row {
+    padding: 20px;
+  }
+
+body {
+  background-color: papayawhip;
+}
+.container {
+  padding-top: 5%;
+  }
+
+  header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+main {
+  width: 100%;
+  margin: 0 auto;
+}
