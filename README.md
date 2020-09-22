@@ -1,8 +1,8 @@
 # homework02_responsiveness_portfolio
 
-[link to site:](https://ctrahan94.github.io/homework2_responsive_portfolio/)
+Link to site: [https://ctrahan94.github.io/homework2_responsive_portfolio/](https://ctrahan94.github.io/homework2_responsive_portfolio/)
 
-link to repo: https://github.com/ctrahan94/homework2_responsive_portfolio
+link to repo: [https://github.com/ctrahan94/homework2_responsive_portfolio](https://github.com/ctrahan94/homework2_responsive_portfolio) 
 
 ## The Objective
 
