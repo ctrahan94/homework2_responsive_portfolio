@@ -22,4 +22,4 @@ Portfolio Page
 ![PorfolioPage](assets/images/portfolioPage.png)
 
 Contact Page
-![ContactPage](assets/images/portfolioPage.png)
+![ContactPage](assets/images/contactPage.png)
