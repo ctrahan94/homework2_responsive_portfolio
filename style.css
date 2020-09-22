@@ -1,7 +1,3 @@
-.row {
-    padding-left: 20px;
-  }
-
 body {
   background-color: papayawhip;
 }
@@ -21,17 +17,14 @@ main {
   margin: 0 auto;
 }
 
-.links {
+.links{
 color: red;
 font-family: 'Roboto', sans-serif;
 }
 
-.test {
-  padding-top: 10%;
-}
-
 footer {
   text-align: center;
+  font-family: 'Lato', sans-serif;
 }
 
 p {
@@ -40,4 +33,37 @@ p {
 
 form {
   font-family: 'Lato', sans-serif;
+}
+
+img {
+  width: 40%;
+  height: 60%;
+}
+
+.img-fluid {
+  float: left;
+  margin: 0 5% 5% 0;
+}
+
+.col-lg-4 {
+  padding-top: 10%;
+}
+
+.center {
+  text-align: center;
+}
+
+.card-images {
+  width: 100%;
+  height: 80%;
+  padding: 5%;
+}
+
+.card {
+  margin: 1%;
+  height: 30%;
+}
+
+.card-body {
+  bottom: 5%;
 }
