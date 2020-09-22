@@ -1,5 +1,9 @@
 # homework02_responsiveness_portfolio
 
+[link to site:](https://ctrahan94.github.io/homework2_responsive_portfolio/)
+
+link to repo: https://github.com/ctrahan94/homework2_responsive_portfolio
+
 ## The Objective
 
 To create a responsive portfolio that will render well on different size devices, windows and screens.
@@ -10,11 +14,12 @@ To create a portfolio that, as we progress through the class, we can add homewor
 ## The Solution
 I used HTML, CSS and Bootstrap to create the portfolio. I referenced Bootstrap in my HTML files to create the navbar, columns, form and sticky footer. CSS was used to add styling and Google fonts to the page.
 
-### What the deployed site looks like
-
 ### Screenshots of the site
+Homepage
 ![Homepage](assets/images/homePage.png)
 
-link to site: 
+Portfolio Page
+![PorfolioPage](assets/images/portfolioPage.png)
 
-link to repo: 
+Contact Page
+![ContactPage](assets/images/portfolioPage.png)
