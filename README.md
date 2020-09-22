@@ -13,7 +13,7 @@ I used HTML, CSS and Bootstrap to create the portfolio. I referenced Bootstrap i
 ### What the deployed site looks like
 
 ### Screenshots of the site
-![Homepage](assets/images/homePage.jpg)
+![Homepage](C:\Users\ctrah\Documents\codingclass\homework\homework2\assets\images\homePage.png)
 
 link to site: 
 
