@@ -62,8 +62,13 @@ img {
 .card {
   margin: 1%;
   height: 30%;
+  background-color:white;
 }
 
 .card-body {
   bottom: 5%;
+}
+
+.card-text h5 {
+  font-family: 'Lato', sans-serif;
 }
