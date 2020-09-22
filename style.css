@@ -43,6 +43,8 @@ img {
 .img-fluid {
   float: left;
   margin: 0 5% 5% 0;
+  max-width: 100%;
+  max-height: auto;
 }
 
 .col-lg-4 {
@@ -62,7 +64,6 @@ img {
 .card {
   margin: 1%;
   height: 30%;
-  background-color:
 }
 
 .card-body {
