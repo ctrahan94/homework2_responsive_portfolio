@@ -73,3 +73,43 @@ img {
 .card-text h5 {
   font-family: 'Lato', sans-serif;
 }
+
+.weather{
+  width: 100%;
+  height: auto;
+}
+
+.music-api {
+  width: 100%;
+  height: auto;
+}
+
+.password-gen {
+  width: 100%;
+  height: auto;
+}
+
+.planner {
+  width: 100%;
+  height: auto;
+}
+
+.project {
+  height: 500px;
+  width: auto;
+}
+
+.generator {
+  height: 500px;
+  width: auto;
+}
+
+.dayplanner {
+  height: 500px;
+  width: auto;
+}
+
+.weatherdashboard {
+  height: 500px;
+  width: auto;
+}
