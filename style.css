@@ -84,6 +84,11 @@ img {
   height: auto;
 }
 
+.passwordGen {
+  width: 100%;
+  height: auto;
+}
+
 .burger-app {
   width: 80%;
   height: auto;
@@ -94,12 +99,22 @@ img {
   height: auto;
 }
 
-.project {
+.project1 {
   height: 500px;
   width: auto;
 }
 
-.generator {
+.project2 {
+  height: 500px;
+  width: auto;
+}
+
+.passwordGenerator {
+  height: 500px;
+  width: auto;
+}
+
+.burger {
   height: 500px;
   width: auto;
 }
